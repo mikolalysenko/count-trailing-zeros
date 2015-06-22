@@ -47,3 +47,8 @@ Count the number of trailing zeros.
 * `v` is an integer
 
 **Returns** The number of trailing zeros of `v`
+
+**Note** For a full balanced binary tree with 2^n elements arranged in order, this is the trailing zeros the index of an element is the same as its height in the tree.
+
+# License
+(c) 2015 Mikola Lysenko. MIT License
