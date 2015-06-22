@@ -1,14 +1,13 @@
 {
   "name": "count-trailing-zeros",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Counts the number of trailing zeros of a binary integer",
   "main": "ctz.js",
   "directories": {
     "example": "example",
     "test": "test"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "tape": "^4.0.0"
   },
